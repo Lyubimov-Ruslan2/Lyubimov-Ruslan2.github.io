@@ -1,0 +1,31 @@
+h1,h2,h3{
+	color: #546FB2;
+}
+
+img{
+	width: 300px;
+	height:200px;
+}
+a{
+	color: #FE0202;
+	cursor: pointer;
+	text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+body{
+	background-color: #EBDB6C; 
+	font-size: 20px;
+}
+
+strong{
+	color: #FA12DC;
+}
+h1:first-letter {
+  font-size: 40px;
+}
+h2:first-letter {
+  font-size: 30px;
+}
+
